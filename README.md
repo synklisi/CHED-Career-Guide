@@ -1,2 +1,56 @@
 # CHED-Career-Guide
 Privacy Policy for CHED Career Guide GPT.
+
+Last updated: May 15, 2026
+
+CHED is a custom GPT designed to provide career guidance, reflection, and educational support for Grade 11 and Grade 12 students.
+
+1. Purpose of CHED
+
+CHED helps students explore possible career paths, senior high school strands, college programs, skills, interests, values, and future goals. It is meant to support reflection and learning, not to replace professional guidance from teachers, counselors, parents, guardians, or licensed professionals.
+
+2. Information Users May Share
+
+Users may choose to share information such as:
+
+- Interests and hobbies
+- Favorite subjects
+- School strand or planned strand
+- Career questions
+- Skills and strengths
+- Personal goals
+- Worries or confusion about the future
+
+Users should avoid sharing highly sensitive personal information, including passwords, financial information, government ID numbers, exact home addresses, private medical details, or other confidential information.
+
+3. How Information Is Used
+
+Information shared with CHED is used only to generate helpful career guidance responses, educational suggestions, reflective questions, and possible pathways for the user to consider.
+
+CHED does not independently sell user data, use user information for advertising, or collect information for marketing purposes.
+
+4. Data Collection and Storage
+
+CHED does not independently operate a separate database and does not independently store personal data outside of ChatGPT.
+
+Conversations with CHED are handled according to OpenAI’s privacy and data policies.
+
+5. External Actions or Third-Party Services
+
+If CHED uses an external action, API, or third-party service, only the information necessary to complete the user’s request may be sent to that service.
+
+Any information sent to a third-party service may be handled according to that service’s own privacy policy.
+
+6. Student Use
+
+CHED is intended for educational and career guidance support. Students are encouraged to discuss important academic, career, or personal decisions with trusted adults, such as parents, guardians, teachers, school counselors, or career guidance professionals.
+
+7. Limitations
+
+CHED provides general educational and career guidance. It does not provide legal, medical, financial, psychological, or professional counseling advice.
+
+8. Contact
+
+For questions about this privacy policy, please contact:
+
+jashdolorlaparan@gmail.com
